@@ -9,7 +9,7 @@ using SmartTradeKendo.CustomFilters;
 
 namespace SmartTradeKendo.Controllers
 {
-    [TrackUserAttribute]
+    [TrackUserAttribute]mkljljlj
     [NotifyExceptionAttribute]
     [ValidateUserAttribute]
     public abstract class BaseController : Controller
